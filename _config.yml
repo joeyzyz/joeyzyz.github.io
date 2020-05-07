@@ -115,11 +115,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
-    repo: blog-comments
+    owner: joeyzyz
+    repo: joeyzyz.github.io
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 36159c131990311d6f97
+        client_secret: ac098b2289d273f1b82b4eb3df86f3f21c963598
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: joeyzyz
