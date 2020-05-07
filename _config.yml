@@ -123,7 +123,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: joeyzyz
-    repo: blog-comments
+    repo: joeyzyz.github.io
     clientID: 7bad15cb9f6e4ed6a939
     clientSecret: 9f4203acaaf08ab25cf8c6dc95252787d4d9890c
 # 在使用其它评论组件时可点击显示 Disqus
