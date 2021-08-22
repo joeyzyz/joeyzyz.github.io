@@ -105,6 +105,14 @@
     } ,
   
     {
+      "title"    : "单源最短路 &amp; Dijkstra",
+      "category" : "leetcode",
+      
+      "url"      : "https://joeyzyz.github.io/2021/08/22/Dijkstra/",
+      "keywords" : "graph, 最短路, Dijkstra"
+    } ,
+  
+    {
       "title"    : "二分图匹配",
       "category" : "leetcode",
       
