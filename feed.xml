@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-08-29T16:08:53+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">BFS</title><link href="https://joeyzyz.github.io/2021/08/22/BFS/" rel="alternate" type="text/html" title="BFS" /><published>2021-08-22T00:00:00+08:00</published><updated>2021-08-22T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/22/BFS</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/22/BFS/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-08-29T18:47:39+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">状态压缩 DP</title><link href="https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/" rel="alternate" type="text/html" title="状态压缩 DP" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/dp/state_compress_dp.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;技巧&quot;&gt;技巧&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;位运算常用写法
+    &lt;ul&gt;
+      &lt;li&gt;判断第 $i$ 位是否为 1: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;(mask &amp;gt;&amp;gt; i) &amp;amp; 1&lt;/code&gt; 或 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mask &amp;amp; (1 &amp;lt;&amp;lt; i)&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;将第 $i$ 位取反（1 变成 0，0 变成 1）: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mask ^ (1 &amp;lt;&amp;lt; i)&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;将第 $i$ 位变成 0: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mask &amp;amp; ~(1 &amp;lt;&amp;lt; i)&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;统计二进制 1 的个数：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bin(mask).count(&quot;1&quot;)&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/&quot;&gt;leetcode 2327&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码</summary></entry><entry><title type="html">BFS</title><link href="https://joeyzyz.github.io/2021/08/22/BFS/" rel="alternate" type="text/html" title="BFS" /><published>2021-08-22T00:00:00+08:00</published><updated>2021-08-22T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/22/BFS</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/22/BFS/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/traverse/BFS.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码</summary></entry><entry><title type="html">DFS &amp;amp; 回溯</title><link href="https://joeyzyz.github.io/2021/08/22/DFS-%E5%9B%9E%E6%BA%AF/" rel="alternate" type="text/html" title="DFS &amp;amp; 回溯" /><published>2021-08-22T00:00:00+08:00</published><updated>2021-08-22T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/22/DFS-%E5%9B%9E%E6%BA%AF</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/22/DFS-%E5%9B%9E%E6%BA%AF/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
@@ -8,12 +26,14 @@
 &lt;ul&gt;
   &lt;li&gt;剪枝&lt;/li&gt;
   &lt;li&gt;记忆化搜索&lt;/li&gt;
+  &lt;li&gt;遍历的对象选择：大多数时候是集合中的一个元素，有的时候是以集合中的多个元素为一个遍历对象&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/maximum-compatibility-score-sum/&quot;&gt;leetcode 1947&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/&quot;&gt;leetcode 2347&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码</summary></entry><entry><title type="html">单源最短路 &amp;amp; Dijkstra</title><link href="https://joeyzyz.github.io/2021/08/22/Dijkstra/" rel="alternate" type="text/html" title="单源最短路 &amp;amp; Dijkstra" /><published>2021-08-22T00:00:00+08:00</published><updated>2021-08-22T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/22/Dijkstra</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/22/Dijkstra/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/graph/dijkstra.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
 

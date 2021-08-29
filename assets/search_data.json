@@ -121,6 +121,14 @@
     } ,
   
     {
+      "title"    : "状态压缩 DP",
+      "category" : "leetcode",
+      
+      "url"      : "https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/",
+      "keywords" : "状态压缩, DP"
+    } ,
+  
+    {
       "title"    : "Wiki Template",
       "category" : "cate1",
       
