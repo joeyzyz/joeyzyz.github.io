@@ -129,6 +129,14 @@
     } ,
   
     {
+      "title"    : "多任务学习在推荐系统中应用",
+      "category" : "LTR",
+      
+      "url"      : "https://joeyzyz.github.io/2021/08/29/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%AD%A6%E4%B9%A0%E5%9C%A8%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%BA%94%E7%94%A8/",
+      "keywords" : "推荐, MTL"
+    } ,
+  
+    {
       "title"    : "状态压缩 DP",
       "category" : "leetcode",
       
