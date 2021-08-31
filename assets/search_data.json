@@ -113,6 +113,14 @@
     } ,
   
     {
+      "title"    : "spark 数据倾斜及解决",
+      "category" : "Spark",
+      
+      "url"      : "https://joeyzyz.github.io/2021/08/22/spark%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/",
+      "keywords" : "Spark, 数据倾斜"
+    } ,
+  
+    {
       "title"    : "二分图匹配",
       "category" : "leetcode",
       
