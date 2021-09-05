@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-08-31T17:52:19+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">01背包</title><link href="https://joeyzyz.github.io/2021/08/29/01%E8%83%8C%E5%8C%85/" rel="alternate" type="text/html" title="01背包" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/01%E8%83%8C%E5%8C%85</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/01%E8%83%8C%E5%8C%85/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-09-05T15:12:27+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">01背包</title><link href="https://joeyzyz.github.io/2021/08/29/01%E8%83%8C%E5%8C%85/" rel="alternate" type="text/html" title="01背包" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/01%E8%83%8C%E5%8C%85</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/01%E8%83%8C%E5%8C%85/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
@@ -9,7 +9,22 @@
 &lt;p&gt;&lt;a href=&quot;&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/55752344&quot;&gt;MMoE&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="LTR" /><category term="Recommendation" /><summary type="html">模板 代码</summary></entry><entry><title type="html">状态压缩 DP</title><link href="https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/" rel="alternate" type="text/html" title="状态压缩 DP" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/55752344&quot;&gt;MMoE&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="LTR" /><category term="Recommendation" /><summary type="html">模板 代码</summary></entry><entry><title type="html">模型解释工具使用</title><link href="https://joeyzyz.github.io/2021/08/29/%E6%A8%A1%E5%9E%8B%E8%A7%A3%E9%87%8A%E6%80%A7%E5%B7%A5%E5%85%B7/" rel="alternate" type="text/html" title="模型解释工具使用" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/%E6%A8%A1%E5%9E%8B%E8%A7%A3%E9%87%8A%E6%80%A7%E5%B7%A5%E5%85%B7</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/%E6%A8%A1%E5%9E%8B%E8%A7%A3%E9%87%8A%E6%80%A7%E5%B7%A5%E5%85%B7/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;常用工具&quot;&gt;常用工具&lt;/h2&gt;
+
+&lt;h3 id=&quot;shap&quot;&gt;shap&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;单样本分析&lt;/li&gt;
+  &lt;li&gt;两两交叉对预测值的影响&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;lime&quot;&gt;lime&lt;/h3&gt;
+
+&lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;shap 官方文档&lt;/a&gt;
+&lt;a href=&quot;https://mathpretty.com/10699.html&quot;&gt;shap value 介绍&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="ModelTools" /><summary type="html">模板 代码</summary></entry><entry><title type="html">状态压缩 DP</title><link href="https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/" rel="alternate" type="text/html" title="状态压缩 DP" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/dp/state_compress_dp.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;技巧&quot;&gt;技巧&lt;/h2&gt;
@@ -85,16 +100,4 @@
 &lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/maximum-compatibility-score-sum/&quot;&gt;leetcode 1947&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="graph" /><summary type="html">模板 代码</summary></entry><entry><title type="html">并查集</title><link href="https://joeyzyz.github.io/2021/08/15/%E5%B9%B6%E6%9F%A5%E9%9B%86/" rel="alternate" type="text/html" title="并查集" /><published>2021-08-15T00:00:00+08:00</published><updated>2021-08-15T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/15/%E5%B9%B6%E6%9F%A5%E9%9B%86</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/15/%E5%B9%B6%E6%9F%A5%E9%9B%86/">&lt;h2 id=&quot;思路&quot;&gt;思路&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;来源于最小生成树中的 kruskal 算法&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/data_structure/union_find.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/last-day-where-you-can-still-cross/&quot;&gt;leetcode 5845&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">思路 来源于最小生成树中的 kruskal 算法</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="graph" /><summary type="html">模板 代码</summary></entry></feed>
