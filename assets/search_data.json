@@ -132,7 +132,7 @@
   
     {
       "title"    : "01背包",
-      "category" : "leetcode",
+      "category" : "Todo",
       
       "url"      : "https://joeyzyz.github.io/2021/08/29/01%E8%83%8C%E5%8C%85/",
       "keywords" : "背包, DP"
@@ -140,7 +140,7 @@
   
     {
       "title"    : "多任务学习在推荐系统中应用",
-      "category" : "LTR",
+      "category" : "Todo",
       
       "url"      : "https://joeyzyz.github.io/2021/08/29/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%AD%A6%E4%B9%A0%E5%9C%A8%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%BA%94%E7%94%A8/",
       "keywords" : "推荐, MTL"
@@ -148,7 +148,7 @@
   
     {
       "title"    : "模型解释工具使用",
-      "category" : "ModelTools",
+      "category" : "Todo",
       
       "url"      : "https://joeyzyz.github.io/2021/08/29/%E6%A8%A1%E5%9E%8B%E8%A7%A3%E9%87%8A%E6%80%A7%E5%B7%A5%E5%85%B7/",
       "keywords" : "shap, lime"
@@ -164,7 +164,7 @@
   
     {
       "title"    : "有限状态机 DFA",
-      "category" : "leetcode",
+      "category" : "Todo",
       
       "url"      : "https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E6%80%81%E6%9C%BA/",
       "keywords" : "状态机, DFA"
