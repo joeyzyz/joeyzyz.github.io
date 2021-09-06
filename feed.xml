@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-09-05T23:33:39+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">spark 数据倾斜及解决</title><link href="https://joeyzyz.github.io/2021/09/05/spark%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/" rel="alternate" type="text/html" title="spark 数据倾斜及解决" /><published>2021-09-05T00:00:00+08:00</published><updated>2021-09-05T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/09/05/spark%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C</id><content type="html" xml:base="https://joeyzyz.github.io/2021/09/05/spark%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/">&lt;h2 id=&quot;问题表现&quot;&gt;问题表现&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-09-06T10:29:42+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">Hive 开窗函数</title><link href="https://joeyzyz.github.io/2021/09/05/Hive-%E5%BC%80%E7%AA%97%E5%87%BD%E6%95%B0/" rel="alternate" type="text/html" title="Hive 开窗函数" /><published>2021-09-05T00:00:00+08:00</published><updated>2021-09-05T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/09/05/Hive%20%E5%BC%80%E7%AA%97%E5%87%BD%E6%95%B0</id><content type="html" xml:base="https://joeyzyz.github.io/2021/09/05/Hive-%E5%BC%80%E7%AA%97%E5%87%BD%E6%95%B0/">&lt;h2 id=&quot;代码&quot;&gt;代码&lt;/h2&gt;
+
+&lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://shzhangji.com/cnblogs/2017/09/05/hive-window-and-analytical-functions/&quot;&gt;Hive 窗口与分析型函数&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="Todo" /><category term="Hive" /><category term="Big Data" /><summary type="html">代码</summary></entry><entry><title type="html">spark 数据倾斜及解决</title><link href="https://joeyzyz.github.io/2021/09/05/spark%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/" rel="alternate" type="text/html" title="spark 数据倾斜及解决" /><published>2021-09-05T00:00:00+08:00</published><updated>2021-09-05T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/09/05/spark%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C</id><content type="html" xml:base="https://joeyzyz.github.io/2021/09/05/spark%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/">&lt;h2 id=&quot;问题表现&quot;&gt;问题表现&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;总共有1000个task，997个task都在1分钟之内执行完了，但是剩余两三个task却要一两个小时&lt;/li&gt;
   &lt;li&gt;原本能够正常执行的Spark作业，某天突然报出OOM（内存溢出）异常&lt;/li&gt;
@@ -87,6 +90,7 @@
 
 &lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/slundberg/shap&quot;&gt;shap 官方文档&lt;/a&gt;
+&lt;a href=&quot;https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf&quot;&gt;shap paper&lt;/a&gt;
 &lt;a href=&quot;https://zhuanlan.zhihu.com/p/149745182&quot;&gt;shap value 介绍&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="Todo" /><category term="Model Tools" /><summary type="html">模板 代码</summary></entry><entry><title type="html">状态压缩 DP</title><link href="https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/" rel="alternate" type="text/html" title="状态压缩 DP" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/dp/state_compress_dp.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
 
@@ -150,10 +154,4 @@
 &lt;h2 id=&quot;思考&quot;&gt;思考&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;如何计算两点之间的最短路径数？&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="graph" /><summary type="html">模板 代码</summary></entry><entry><title type="html">二分图匹配</title><link href="https://joeyzyz.github.io/2021/08/22/%E4%BA%8C%E5%88%86%E5%9B%BE%E5%8C%B9%E9%85%8D/" rel="alternate" type="text/html" title="二分图匹配" /><published>2021-08-22T00:00:00+08:00</published><updated>2021-08-22T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/22/%E4%BA%8C%E5%88%86%E5%9B%BE%E5%8C%B9%E9%85%8D</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/22/%E4%BA%8C%E5%88%86%E5%9B%BE%E5%8C%B9%E9%85%8D/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://oi-wiki.org/graph/graph-matching/bigraph-weight-match/&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/maximum-compatibility-score-sum/&quot;&gt;leetcode 1947&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="graph" /><summary type="html">模板 代码</summary></entry></feed>
