@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-09-21T23:23:19+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">Hive 开窗函数</title><link href="https://joeyzyz.github.io/2021/09/05/Hive-%E5%BC%80%E7%AA%97%E5%87%BD%E6%95%B0/" rel="alternate" type="text/html" title="Hive 开窗函数" /><published>2021-09-05T00:00:00+08:00</published><updated>2021-09-05T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/09/05/Hive%20%E5%BC%80%E7%AA%97%E5%87%BD%E6%95%B0</id><content type="html" xml:base="https://joeyzyz.github.io/2021/09/05/Hive-%E5%BC%80%E7%AA%97%E5%87%BD%E6%95%B0/">&lt;h2 id=&quot;代码&quot;&gt;代码&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-10-04T23:25:12+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">滑动窗口</title><link href="https://joeyzyz.github.io/2021/10/04/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/" rel="alternate" type="text/html" title="滑动窗口" /><published>2021-10-04T00:00:00+08:00</published><updated>2021-10-04T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/10/04/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3</id><content type="html" xml:base="https://joeyzyz.github.io/2021/10/04/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/">&lt;h2 id=&quot;解题思路&quot;&gt;解题思路&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;以右指针作为驱动，拖着左指针向前走。右指针每次只移动一步，而左指针在内部 while 循环中每次可能移动多步&lt;/li&gt;
+  &lt;li&gt;右指针是主动前移，探索未知的新区域；左指针是被迫移动，负责寻找满足题意的区间&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/traverse/sliding_window.py&quot;&gt; 代码 &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/max-consecutive-ones-iii/&quot;&gt;leetcode 1004&lt;/a&gt;
+&lt;a href=&quot;https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/&quot;&gt;leetcode 2024&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">解题思路 以右指针作为驱动，拖着左指针向前走。右指针每次只移动一步，而左指针在内部 while 循环中每次可能移动多步 右指针是主动前移，探索未知的新区域；左指针是被迫移动，负责寻找满足题意的区间</summary></entry><entry><title type="html">Hive 开窗函数</title><link href="https://joeyzyz.github.io/2021/09/05/Hive-%E5%BC%80%E7%AA%97%E5%87%BD%E6%95%B0/" rel="alternate" type="text/html" title="Hive 开窗函数" /><published>2021-09-05T00:00:00+08:00</published><updated>2021-09-05T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/09/05/Hive%20%E5%BC%80%E7%AA%97%E5%87%BD%E6%95%B0</id><content type="html" xml:base="https://joeyzyz.github.io/2021/09/05/Hive-%E5%BC%80%E7%AA%97%E5%87%BD%E6%95%B0/">&lt;h2 id=&quot;代码&quot;&gt;代码&lt;/h2&gt;
 
 &lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://shzhangji.com/cnblogs/2017/09/05/hive-window-and-analytical-functions/&quot;&gt;Hive 窗口与分析型函数&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="Todo" /><category term="Hive" /><category term="Big Data" /><summary type="html">代码</summary></entry><entry><title type="html">spark 数据倾斜及解决</title><link href="https://joeyzyz.github.io/2021/09/05/spark%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/" rel="alternate" type="text/html" title="spark 数据倾斜及解决" /><published>2021-09-05T00:00:00+08:00</published><updated>2021-09-05T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/09/05/spark%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C</id><content type="html" xml:base="https://joeyzyz.github.io/2021/09/05/spark%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/">&lt;h2 id=&quot;问题表现&quot;&gt;问题表现&lt;/h2&gt;
@@ -146,24 +161,4 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/maximum-compatibility-score-sum/&quot;&gt;leetcode 1947&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/&quot;&gt;leetcode 2347&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码</summary></entry><entry><title type="html">单源最短路 &amp;amp; Dijkstra</title><link href="https://joeyzyz.github.io/2021/08/22/Dijkstra/" rel="alternate" type="text/html" title="单源最短路 &amp;amp; Dijkstra" /><published>2021-08-22T00:00:00+08:00</published><updated>2021-08-22T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/22/Dijkstra</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/22/Dijkstra/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/graph/dijkstra.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;适用范围&quot;&gt;适用范围&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;不能处理负权边或环
-    &lt;ul&gt;
-      &lt;li&gt;原因：Dijkstra算法当中将节点分为已求得最短路径的集合（记为P）和未确定最短路径的集合（记为Q），归入P集合的节点的最短路径及其长度不再变更，如果边上的权值允许为负值，那么有可能出现当与P内某点（记为a）以负边相连的点（记为b）确定其最短路径时，它的最短路径长度加上这条负边的权值结果小于a原先确定的最短路径长度，但是a在Dijkstra算法下是无法更新的，由此便可能得不到正确的结果。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/number-of-ways-to-arrive-at-destination/&quot;&gt;leetcode 5836&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;思考&quot;&gt;思考&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;如何计算两点之间的最短路径数？&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="graph" /><summary type="html">模板 代码</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码</summary></entry></feed>
