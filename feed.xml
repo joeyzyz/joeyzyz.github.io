@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-10-07T16:38:40+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">滑动窗口</title><link href="https://joeyzyz.github.io/2021/10/04/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/" rel="alternate" type="text/html" title="滑动窗口" /><published>2021-10-04T00:00:00+08:00</published><updated>2021-10-04T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/10/04/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3</id><content type="html" xml:base="https://joeyzyz.github.io/2021/10/04/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/">&lt;h2 id=&quot;解题思路&quot;&gt;解题思路&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-10-13T23:08:35+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">二分查找</title><link href="https://joeyzyz.github.io/2021/10/11/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/" rel="alternate" type="text/html" title="二分查找" /><published>2021-10-11T00:00:00+08:00</published><updated>2021-10-11T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/10/11/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE</id><content type="html" xml:base="https://joeyzyz.github.io/2021/10/11/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/divide-and-conquer/binary_search.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/&quot;&gt;leetcode 34&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码</summary></entry><entry><title type="html">滑动窗口</title><link href="https://joeyzyz.github.io/2021/10/04/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/" rel="alternate" type="text/html" title="滑动窗口" /><published>2021-10-04T00:00:00+08:00</published><updated>2021-10-04T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/10/04/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3</id><content type="html" xml:base="https://joeyzyz.github.io/2021/10/04/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/">&lt;h2 id=&quot;解题思路&quot;&gt;解题思路&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;以右指针作为驱动，拖着左指针向前走。右指针每次只移动一步，而左指针在内部 while 循环中每次可能移动多步&lt;/li&gt;
   &lt;li&gt;右指针是主动前移，探索未知的新区域；左指针是被迫移动，负责寻找满足题意的区间&lt;/li&gt;
@@ -146,19 +150,4 @@
 &lt;p&gt;&lt;a href=&quot;https://chenyuxiaodhr.github.io/zh-CN/Game-Development/Finite-State-Machine-in-Game-Development/&quot;&gt;游戏开发之状态机的实现与优化&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="Todo" /><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码</summary></entry><entry><title type="html">BFS</title><link href="https://joeyzyz.github.io/2021/08/22/BFS/" rel="alternate" type="text/html" title="BFS" /><published>2021-08-22T00:00:00+08:00</published><updated>2021-08-22T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/22/BFS</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/22/BFS/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/traverse/BFS.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码</summary></entry><entry><title type="html">DFS &amp;amp; 回溯</title><link href="https://joeyzyz.github.io/2021/08/22/DFS-%E5%9B%9E%E6%BA%AF/" rel="alternate" type="text/html" title="DFS &amp;amp; 回溯" /><published>2021-08-22T00:00:00+08:00</published><updated>2021-08-22T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/22/DFS-%E5%9B%9E%E6%BA%AF</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/22/DFS-%E5%9B%9E%E6%BA%AF/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/traverse/DFS.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;技巧&quot;&gt;技巧&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;剪枝&lt;/li&gt;
-  &lt;li&gt;记忆化搜索&lt;/li&gt;
-  &lt;li&gt;遍历的对象选择：大多数时候是集合中的一个元素，有的时候是以集合中的多个元素为一个遍历对象&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/maximum-compatibility-score-sum/&quot;&gt;leetcode 1947&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/&quot;&gt;leetcode 2347&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码</summary></entry></feed>
+&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码</summary></entry></feed>
