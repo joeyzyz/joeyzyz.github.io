@@ -203,6 +203,14 @@
     } ,
   
     {
+      "title"    : "二叉搜索树",
+      "category" : "leetcode",
+      
+      "url"      : "https://joeyzyz.github.io/2021/12/18/BST/",
+      "keywords" : "binary tree, BST"
+    } ,
+  
+    {
       "title"    : "Wiki Template",
       "category" : "cate1",
       
