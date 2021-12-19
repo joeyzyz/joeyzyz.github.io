@@ -219,6 +219,14 @@
     } ,
   
     {
+      "title"    : "最近公共祖先",
+      "category" : "leetcode",
+      
+      "url"      : "https://joeyzyz.github.io/2021/12/19/%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/",
+      "keywords" : "BST, BT, 祖先"
+    } ,
+  
+    {
       "title"    : "Wiki Template",
       "category" : "cate1",
       

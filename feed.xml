@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-12-19T18:19:26+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">二叉树序列化与反序列化</title><link href="https://joeyzyz.github.io/2021/12/19/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/" rel="alternate" type="text/html" title="二叉树序列化与反序列化" /><published>2021-12-19T00:00:00+08:00</published><updated>2021-12-19T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/12/19/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96</id><content type="html" xml:base="https://joeyzyz.github.io/2021/12/19/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2021-12-19T21:19:08+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">二叉树序列化与反序列化</title><link href="https://joeyzyz.github.io/2021/12/19/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/" rel="alternate" type="text/html" title="二叉树序列化与反序列化" /><published>2021-12-19T00:00:00+08:00</published><updated>2021-12-19T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/12/19/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96</id><content type="html" xml:base="https://joeyzyz.github.io/2021/12/19/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/data_structure/BT-serialize.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;包括：前序遍历，后续遍历，层级遍历&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/&quot;&gt;leetcode 297&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码 包括：前序遍历，后续遍历，层级遍历</summary></entry><entry><title type="html">二叉搜索树</title><link href="https://joeyzyz.github.io/2021/12/18/BST/" rel="alternate" type="text/html" title="二叉搜索树" /><published>2021-12-18T00:00:00+08:00</published><updated>2021-12-18T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/12/18/BST</id><content type="html" xml:base="https://joeyzyz.github.io/2021/12/18/BST/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/&quot;&gt;leetcode 297&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码 包括：前序遍历，后续遍历，层级遍历</summary></entry><entry><title type="html">最近公共祖先</title><link href="https://joeyzyz.github.io/2021/12/19/%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/" rel="alternate" type="text/html" title="最近公共祖先" /><published>2021-12-19T00:00:00+08:00</published><updated>2021-12-19T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/12/19/%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88</id><content type="html" xml:base="https://joeyzyz.github.io/2021/12/19/%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/data_structure/LCA.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;包括：二叉树版本和二叉搜索树版本&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/&quot;&gt;leetcode 236&lt;/a&gt;
+&lt;a href=&quot;https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/&quot;&gt;leetcode 235&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码 包括：二叉树版本和二叉搜索树版本</summary></entry><entry><title type="html">二叉搜索树</title><link href="https://joeyzyz.github.io/2021/12/18/BST/" rel="alternate" type="text/html" title="二叉搜索树" /><published>2021-12-18T00:00:00+08:00</published><updated>2021-12-18T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/12/18/BST</id><content type="html" xml:base="https://joeyzyz.github.io/2021/12/18/BST/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/data_structure/BST.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;包括：查询、插入、删除、判断合法性&lt;/li&gt;
@@ -139,22 +147,4 @@
 &lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/slundberg/shap&quot;&gt;shap 官方文档&lt;/a&gt;
 &lt;a href=&quot;https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf&quot;&gt;shap paper&lt;/a&gt;
-&lt;a href=&quot;https://zhuanlan.zhihu.com/p/149745182&quot;&gt;shap value 介绍&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="Todo" /><category term="Model Tools" /><summary type="html">模板 代码</summary></entry><entry><title type="html">状态压缩 DP</title><link href="https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/" rel="alternate" type="text/html" title="状态压缩 DP" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/dp/state_compress_dp.py&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;技巧&quot;&gt;技巧&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;位运算常用写法
-    &lt;ul&gt;
-      &lt;li&gt;判断第 i 位是否为 1: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;(mask &amp;gt;&amp;gt; i) &amp;amp; 1&lt;/code&gt; 或 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mask &amp;amp; (1 &amp;lt;&amp;lt; i)&lt;/code&gt;&lt;/li&gt;
-      &lt;li&gt;将第 i 位取反（1 变成 0，0 变成 1）: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mask ^ (1 &amp;lt;&amp;lt; i)&lt;/code&gt;&lt;/li&gt;
-      &lt;li&gt;将第 i 位变成 0: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mask &amp;amp; ~(1 &amp;lt;&amp;lt; i)&lt;/code&gt;&lt;/li&gt;
-      &lt;li&gt;统计二进制 1 的个数：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bin(mask).count(&quot;1&quot;)&lt;/code&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://leetcode-cn.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/&quot;&gt;leetcode 2327&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 代码</summary></entry></feed>
+&lt;a href=&quot;https://zhuanlan.zhihu.com/p/149745182&quot;&gt;shap value 介绍&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="Todo" /><category term="Model Tools" /><summary type="html">模板 代码</summary></entry></feed>
