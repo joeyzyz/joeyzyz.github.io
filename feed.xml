@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2022-03-06T18:44:17+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">链表技巧</title><link href="https://joeyzyz.github.io/2021/12/22/%E9%93%BE%E8%A1%A8/" rel="alternate" type="text/html" title="链表技巧" /><published>2021-12-22T00:00:00+08:00</published><updated>2021-12-22T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/12/22/%E9%93%BE%E8%A1%A8</id><content type="html" xml:base="https://joeyzyz.github.io/2021/12/22/%E9%93%BE%E8%A1%A8/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://joeyzyz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://joeyzyz.github.io/" rel="alternate" type="text/html" /><updated>2022-03-06T18:48:56+08:00</updated><id>https://joeyzyz.github.io/feed.xml</id><title type="html">blog</title><subtitle></subtitle><author><name>joey zhou</name></author><entry><title type="html">链表技巧</title><link href="https://joeyzyz.github.io/2021/12/22/%E9%93%BE%E8%A1%A8/" rel="alternate" type="text/html" title="链表技巧" /><published>2021-12-22T00:00:00+08:00</published><updated>2021-12-22T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/12/22/%E9%93%BE%E8%A1%A8</id><content type="html" xml:base="https://joeyzyz.github.io/2021/12/22/%E9%93%BE%E8%A1%A8/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://oi-wiki.org/graph/graph-matching/bigraph-weight-match/&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;思路&quot;&gt;思路&lt;/h2&gt;
@@ -128,26 +128,23 @@
 &lt;h2 id=&quot;代码&quot;&gt;代码&lt;/h2&gt;
 
 &lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://tech.meituan.com/2016/05/12/spark-tuning-pro.html&quot;&gt;美团Spark性能优化指南&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="Spark" /><category term="Big Data" /><summary type="html">问题表现 总共有1000个task，997个task都在1分钟之内执行完了，但是剩余两三个task却要一两个小时 原本能够正常执行的Spark作业，某天突然报出OOM（内存溢出）异常</summary></entry><entry><title type="html">01背包 &amp;amp; 完全背包</title><link href="https://joeyzyz.github.io/2021/08/29/01%E8%83%8C%E5%8C%85/" rel="alternate" type="text/html" title="01背包 &amp;amp; 完全背包" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/01%E8%83%8C%E5%8C%85</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/01%E8%83%8C%E5%8C%85/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://tech.meituan.com/2016/05/12/spark-tuning-pro.html&quot;&gt;美团Spark性能优化指南&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="Spark" /><category term="Big Data" /><summary type="html">问题表现 总共有1000个task，997个task都在1分钟之内执行完了，但是剩余两三个task却要一两个小时 原本能够正常执行的Spark作业，某天突然报出OOM（内存溢出）异常</summary></entry><entry><title type="html">模型解释工具使用</title><link href="https://joeyzyz.github.io/2021/08/29/%E6%A8%A1%E5%9E%8B%E8%A7%A3%E9%87%8A%E6%80%A7%E5%B7%A5%E5%85%B7/" rel="alternate" type="text/html" title="模型解释工具使用" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/%E6%A8%A1%E5%9E%8B%E8%A7%A3%E9%87%8A%E6%80%A7%E5%B7%A5%E5%85%B7</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/%E6%A8%A1%E5%9E%8B%E8%A7%A3%E9%87%8A%E6%80%A7%E5%B7%A5%E5%85%B7/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;常用工具&quot;&gt;常用工具&lt;/h2&gt;
+
+&lt;h3 id=&quot;shap&quot;&gt;shap&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/dp/0-1-backpack.py&quot;&gt; 01背包代码 &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/joeyzyz/leetcode-template/blob/main/dp/0-inf-backpack.py&quot;&gt; 完全背包代码 &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;单样本分析&lt;/li&gt;
+  &lt;li&gt;两两交叉对预测值的影响&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;典型题目&quot;&gt;典型题目&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;01 背包
-&lt;a href=&quot;https://leetcode-cn.com/problems/minimize-the-difference-between-target-and-chosen-elements/&quot;&gt;leetcode 1981&lt;/a&gt;
-&lt;a href=&quot;https://leetcode-cn.com/problems/partition-equal-subset-sum/&quot;&gt;leetcode 416&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;完全背包
-&lt;a href=&quot;https://leetcode-cn.com/problems/coin-change/&quot;&gt;leetcode 322&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;lime&quot;&gt;lime&lt;/h3&gt;
 
 &lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://raw.githubusercontent.com/tianyicui/pack/master/V2.pdf&quot;&gt; 背包九讲 &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://edwardzcn.github.io/post/1590e320.html&quot;&gt; 01背包的常数优化 &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>joey zhou</name></author><category term="leetcode" /><category term="Algorithm" /><summary type="html">模板 01背包代码 完全背包代码</summary></entry><entry><title type="html">多任务学习在推荐系统中应用</title><link href="https://joeyzyz.github.io/2021/08/29/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%AD%A6%E4%B9%A0%E5%9C%A8%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%BA%94%E7%94%A8/" rel="alternate" type="text/html" title="多任务学习在推荐系统中应用" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%AD%A6%E4%B9%A0%E5%9C%A8%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%BA%94%E7%94%A8</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%AD%A6%E4%B9%A0%E5%9C%A8%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%BA%94%E7%94%A8/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/slundberg/shap&quot;&gt;shap 官方文档&lt;/a&gt;
+&lt;a href=&quot;https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf&quot;&gt;shap paper&lt;/a&gt;
+&lt;a href=&quot;https://zhuanlan.zhihu.com/p/149745182&quot;&gt;shap value 介绍&lt;/a&gt;&lt;/p&gt;</content><author><name>joey zhou</name></author><category term="Todo" /><category term="Model Tools" /><summary type="html">模板 代码</summary></entry><entry><title type="html">多任务学习在推荐系统中应用</title><link href="https://joeyzyz.github.io/2021/08/29/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%AD%A6%E4%B9%A0%E5%9C%A8%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%BA%94%E7%94%A8/" rel="alternate" type="text/html" title="多任务学习在推荐系统中应用" /><published>2021-08-29T00:00:00+08:00</published><updated>2021-08-29T00:00:00+08:00</updated><id>https://joeyzyz.github.io/2021/08/29/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%AD%A6%E4%B9%A0%E5%9C%A8%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%BA%94%E7%94%A8</id><content type="html" xml:base="https://joeyzyz.github.io/2021/08/29/%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%AD%A6%E4%B9%A0%E5%9C%A8%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%BA%94%E7%94%A8/">&lt;h2 id=&quot;模板&quot;&gt;模板&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;&quot;&gt;代码&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
