@@ -84,7 +84,7 @@
   
     {
       "title"    : "并查集",
-      "category" : "leetcode",
+      "category" : "Algorithm",
       
       "url"      : "https://joeyzyz.github.io/2021/08/15/%E5%B9%B6%E6%9F%A5%E9%9B%86/",
       "keywords" : "并查集, 数据结构"
@@ -92,7 +92,7 @@
   
     {
       "title"    : "BFS",
-      "category" : "leetcode",
+      "category" : "Algorithm",
       
       "url"      : "https://joeyzyz.github.io/2021/08/22/BFS/",
       "keywords" : "BFS, deque"
@@ -100,7 +100,7 @@
   
     {
       "title"    : "DFS &amp; 回溯",
-      "category" : "leetcode",
+      "category" : "Algorithm",
       
       "url"      : "https://joeyzyz.github.io/2021/08/22/DFS-%E5%9B%9E%E6%BA%AF/",
       "keywords" : "DFS, 回溯"
@@ -108,7 +108,7 @@
   
     {
       "title"    : "单源最短路 &amp; Dijkstra",
-      "category" : "leetcode",
+      "category" : "graph",
       
       "url"      : "https://joeyzyz.github.io/2021/08/22/Dijkstra/",
       "keywords" : "graph, 最短路, Dijkstra"
@@ -124,7 +124,7 @@
   
     {
       "title"    : "单调栈",
-      "category" : "leetcode",
+      "category" : "Algorithm",
       
       "url"      : "https://joeyzyz.github.io/2021/08/22/%E5%8D%95%E8%B0%83%E6%A0%88/",
       "keywords" : "stack"
@@ -148,7 +148,7 @@
   
     {
       "title"    : "01背包 &amp; 完全背包",
-      "category" : "leetcode",
+      "category" : "Algorithm",
       
       "url"      : "https://joeyzyz.github.io/2021/08/29/01%E8%83%8C%E5%8C%85/",
       "keywords" : "背包, DP"
@@ -156,7 +156,7 @@
   
     {
       "title"    : "状态压缩 DP",
-      "category" : "leetcode",
+      "category" : "Algorithm",
       
       "url"      : "https://joeyzyz.github.io/2021/08/29/%E7%8A%B6%E5%8E%8BDP/",
       "keywords" : "状态压缩, DP"
@@ -188,7 +188,7 @@
   
     {
       "title"    : "滑动窗口",
-      "category" : "leetcode",
+      "category" : "Algorithm",
       
       "url"      : "https://joeyzyz.github.io/2021/10/04/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/",
       "keywords" : "双指针, 滑动窗口"
@@ -196,7 +196,7 @@
   
     {
       "title"    : "二分查找",
-      "category" : "leetcode",
+      "category" : "Algorithm",
       
       "url"      : "https://joeyzyz.github.io/2021/10/11/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/",
       "keywords" : "二分查找"
@@ -204,7 +204,7 @@
   
     {
       "title"    : "二叉搜索树",
-      "category" : "leetcode",
+      "category" : "Algorithm",
       
       "url"      : "https://joeyzyz.github.io/2021/12/18/BST/",
       "keywords" : "binary tree, BST"
@@ -212,7 +212,7 @@
   
     {
       "title"    : "二叉树序列化与反序列化",
-      "category" : "leetcode",
+      "category" : "Algorithm",
       
       "url"      : "https://joeyzyz.github.io/2021/12/19/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/",
       "keywords" : "binary tree, 序列化, 反序列化"
@@ -220,7 +220,7 @@
   
     {
       "title"    : "最近公共祖先",
-      "category" : "leetcode",
+      "category" : "Algorithm",
       
       "url"      : "https://joeyzyz.github.io/2021/12/19/%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/",
       "keywords" : "BST, BT, 祖先"
@@ -232,6 +232,14 @@
       
       "url"      : "https://joeyzyz.github.io/2021/12/22/%E9%93%BE%E8%A1%A8/",
       "keywords" : "linkedList, 双指针"
+    } ,
+  
+    {
+      "title"    : "拓扑排序",
+      "category" : "Algorithm",
+      
+      "url"      : "https://joeyzyz.github.io/2022/03/06/%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F/",
+      "keywords" : "Graph, topological_sort"
     } ,
   
     {
